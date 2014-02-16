@@ -1,0 +1,17 @@
+radiusNoseVertical: 5
+radiusNoseHorizontal: 12
+fuselageLength: 33
+fuselageHeight: 12
+epionageLength: 54
+epionageHeight: 2
+blockLength: 2
+tailPlaneHeight: 25
+tailPlaneWidth: 14
+tailPlaneTopLength: 16
+tailPlaneDifference: 9
+mainWingPlaneHeight: 2
+mainWingPlaneLength: 28
+mainWingPosH: 32
+mainWingPosV: 12
+tailWingPlaneHeight: 2
+tailWingPlaneLength: 19

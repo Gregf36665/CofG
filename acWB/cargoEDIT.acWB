@@ -1,0 +1,7 @@
+5
+Fuselage: 6.0 70.0
+wing: 9.0 36.0
+Battery: 8.0 9.0
+cutOut(underHozStab): -0.0474 90.5
+cutOut(tailPlane): -0.037 98
+hole(tailSection): 4.0 9.0
